@@ -13,6 +13,8 @@ const SpoilerBot = require('./src/SpoilerBot');
 
 let config = {
     token: process.env.BOT_TOKEN,
+    markAllowAll: true,
+    maxLines: 20,
 };
 
 let bot = new SpoilerBot(config);
