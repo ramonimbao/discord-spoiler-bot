@@ -9,7 +9,7 @@ module.exports = require('./src/SpoilerBot');
 
 'use strict';
 
-const SpoilerBot = require('discord-spoiler-bot');
+const SpoilerBot = require('./src/SpoilerBot');
 
 let config = {
     token: 'Mzg1ODM0NzQxMzcyNTUxMTY4.DQHQSA.9xr07yOhzzY99Lc98ANCBU3HPSk',
