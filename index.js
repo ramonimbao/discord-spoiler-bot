@@ -12,7 +12,7 @@ module.exports = require('./src/SpoilerBot');
 const SpoilerBot = require('discord-spoiler-bot');
 
 let config = {
-    token: 'Mzg1ODM0NzQxMzcyNTUxMTY4.DQHIHw.hK7gRJlvSYzqlkl89B5Aih_6GR0',
+    token: 'Mzg1ODM0NzQxMzcyNTUxMTY4.DQHQSA.9xr07yOhzzY99Lc98ANCBU3HPSk',
 };
 
 let bot = new SpoilerBot(config);
